@@ -1,0 +1,39 @@
+/* div{
+    border: 2px solid;
+    height: 100px;
+    overflow: auto;
+} */
+
+/* div{
+    background-color: lightblue;
+    margin-bottom:50px;
+    height: 150px;
+    width: 150px;
+     overflow: auto; 
+}
+
+span{
+    background-color: red;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+} */
+
+
+.box{
+background-color: aliceblue;
+border:2px solid;
+padding: 25px;
+box-sizing:border-box;
+height: auto;
+width:50%;
+float: left;
+text-align: center;
+/* overrides width and height */
+max-width: 50%;
+min-height: 50%;
+}
+
+/* .cont{
+    background-color: grey;
+    height: 100vh
+  */
